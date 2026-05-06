@@ -9,9 +9,9 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I'm a junior frontend developer based in South Korea.<br/>
-  #### :fire: I strive to build web experiences beyond just functionality.<br/>
-  #### :mortar_board: Studied Information Convergence at Kwangwoon University, with hands-on experience in UX/UI research and frontend projects.
+  #### :raising_hand: I'm an HCI researcher and developer based in South Korea.<br/>
+  #### :fire: I’m interested in how users perceive, understand, and interact with digital and immersive systems.<br/>
+  #### :mortar_board: I studied Information Convergence at Kwangwoon University, with hands-on experience in UX/UI research, VR interaction design, and frontend projects.<br/>
   <br/>
   <br/>
   
